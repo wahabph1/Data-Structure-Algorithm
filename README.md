@@ -1,1 +1,1 @@
-# Data-Structure-Algorithm-in-c-
+# Data-Structure-Algorithm
